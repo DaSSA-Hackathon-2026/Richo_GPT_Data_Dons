@@ -1,4 +1,4 @@
-# Richo_GPT_Data_Dons
+# Ricoh_GPT_Data_Dons
 Hybrid RAG Retrieval Pipeline for Ricoh Technical Documentation
 
 
