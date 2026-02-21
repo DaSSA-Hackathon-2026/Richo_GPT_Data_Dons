@@ -135,14 +135,13 @@ On the first run, the script will:
 Once indexing is done, it will prompt you to enter a question:
 
 ```
-What can I help you Research?
-```
+Enter Your Query: ```
 
-Type your question and press Enter. The agent will retrieve relevant chunks from the documentation and return a structured response with a topic, summary, and cited sources.
+Type your question and press Enter. The agent will retrieve relevant chunks from the documentation and return a structured response with a topic, summary, and cited sources along with PDF on the right side.
 
 ---
 
-## How It Works
+## Working: 
 
 ### Step 1 - Document Loading
 
